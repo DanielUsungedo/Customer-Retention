@@ -1,4 +1,4 @@
-<h1>Customer Retnetion Data Analysis</h1>
+<h1>Customer Retention Data Analysis</h1>
 
  ### [Customer Retention Visualization](https://app.powerbi.com/view?r=eyJrIjoiMDAxNjhjMzAtZmM3ZS00ODcyLWI2MDItMWE5ZThmZDgwNzcyIiwidCI6ImVjNGUyZDg4LTI3ODgtNGQ5Yi1hMjE0LTcyZGRhZDU4OGVkNyJ9)
 
