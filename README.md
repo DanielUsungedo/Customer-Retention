@@ -4,7 +4,7 @@
 
 <h2>Description</h2>
 Customers in the telecom industry are hard-won and painful to lose.
-The case study focuses on The retention department's desire to learn more about their customers in order to re-engage them in the event of a termination.
+The case study focuses on the retention department's desire to learn more about their customers in order to re-engage them in the event of a termination.
 
 My approach was to:
 
