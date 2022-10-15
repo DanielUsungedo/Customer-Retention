@@ -3,7 +3,7 @@
  ### [Customer Retention Visualization](https://app.powerbi.com/view?r=eyJrIjoiMDAxNjhjMzAtZmM3ZS00ODcyLWI2MDItMWE5ZThmZDgwNzcyIiwidCI6ImVjNGUyZDg4LTI3ODgtNGQ5Yi1hMjE0LTcyZGRhZDU4OGVkNyJ9)
 
 <h2>Description</h2>
-Customers in the telecom industry are hard-won and difficult to lose.
+Customers in the telecom industry are hard-won and painful to lose.
 The case study focuses on The retention department's desire to learn more about their customers in order to re-engage them in the event of a termination.
 
 My approach was to:
